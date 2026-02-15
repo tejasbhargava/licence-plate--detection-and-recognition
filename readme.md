@@ -31,6 +31,8 @@ Matplotlib
 easyocr
 
 📂 Project Structure
+
+```
 project/
 │
 ├── models/              # model configs or small files
@@ -40,6 +42,7 @@ project/
 ├── ocr_recognition.py
 ├── requirements.txt
 └── README.md
+```
 
 
 ⚙️ Installation
