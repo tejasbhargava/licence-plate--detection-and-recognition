@@ -40,6 +40,8 @@ project/
 ├── ocr_recognition.py
 ├── requirements.txt
 └── README.md
+
+
 ⚙️ Installation
 
 Clone the repository:
@@ -50,6 +52,8 @@ cd your-repo-name
 Install dependencies:
 
 pip install -r requirements.txt
+
+
 ▶️ How to Run
 
 Run OCR detection script:
