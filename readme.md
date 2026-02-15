@@ -1,10 +1,10 @@
-🚗 License Plate Detection and OCR System
+## 🚗 License Plate Detection and OCR System
 
 This project detects vehicle license plates from images and extracts the license number using Optical Character Recognition (OCR).
 
 It combines YOLOv8 object detection for locating license plates and OCR for reading the text from detected regions.
 
-✨ Features
+## ✨ Features
 
 Automatic license plate detection
 
@@ -16,7 +16,7 @@ Works on custom input images
 
 Modular and easy-to-run scripts
 
-🧠 Technologies Used
+## 🧠 Technologies Used
 
 Python
 
@@ -30,7 +30,7 @@ Matplotlib
 
 easyocr
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```
 project/
@@ -45,7 +45,7 @@ project/
 ```
 
 
-⚙️ Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -57,7 +57,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-▶️ How to Run
+## ▶️ How to Run
 
 Run OCR detection script:
 
@@ -65,7 +65,7 @@ python ocr_recognition.py
 
 Provide input image path inside the script or notebook.
 
-📊 Output
+## 📊 Output
 
 The system:
 
@@ -77,7 +77,7 @@ Applies OCR
 
 Displays recognized license number
 
-📁 Dataset
+## 📁 Dataset
 
 Dataset is not included in this repository.
 
